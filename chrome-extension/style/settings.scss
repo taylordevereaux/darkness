@@ -431,6 +431,23 @@ ul li.drk_button_li,
 
 		display: none !important;
 	}
+	
+	&.synthwave80s {
+		background: #262335 !important;
+		color: rgb(255, 255, 255) !important;
+
+		.color1 {
+			background: rgb(177, 0, 127) !important;
+		}
+
+		.color2 {
+			background: rgb(255, 126, 219) !important;
+		}
+
+		.color3 {
+			background: rgb(54, 249, 246) !important;
+		}
+	}
 }
 
 ul li.drk_button_li {
