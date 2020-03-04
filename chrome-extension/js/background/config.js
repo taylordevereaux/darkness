@@ -42,9 +42,9 @@ var CONFIG = {
 			key: 'youtubedark',
 			name: 'YouTube Dark'
 		},
-		'synthwave80s': {
-			key: 'synthwave80s',
-			name: 'Synthwave 80s'
+		'synthwave': {
+			key: 'synthwave',
+			name: 'Synthwave'
 		}
 	},
 
